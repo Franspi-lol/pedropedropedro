@@ -5,4 +5,12 @@
 body{
     margin: 0;
     background-color: black;
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+}
+#play{
+    border: none;
+    padding: 15px;
+    font-size: 20px;
 }
