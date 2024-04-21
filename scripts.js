@@ -1,1 +1,2 @@
-document.querySelector("#video").autoplay = true;
+var video = document.getElementById('video');
+video.play();
